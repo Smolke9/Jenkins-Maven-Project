@@ -96,11 +96,6 @@ mvn -version
 
 ---
 
-## 📷 Screenshot in README
-
-```markdown
-![Jenkins Output](output.jpg)
-```
 
 ---
 
